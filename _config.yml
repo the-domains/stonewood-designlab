@@ -13,6 +13,17 @@ opengraph:
   image: null
   type: null
   appId: null
+color:
+  brandColors:
+    - '#cd2b36'
+    - '#e29500'
+    - '#115b75'
+    - '#85c4d9'
+    - '#000000'
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose:
   - name: follow
     item: null
